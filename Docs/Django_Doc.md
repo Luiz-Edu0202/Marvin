@@ -6,4 +6,4 @@
 
 - Ligar o site ```python manage.py runserver```
 
-- Criar Página ```python manage.py startapp name``` 
+- Criar um novo app no server ```python manage.py startapp Servername``` 
