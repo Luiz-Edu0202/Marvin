@@ -25,6 +25,22 @@ A project to study programming and create a portfolio and help my father with hi
 - Atualizar dependencias
     - ``` pip freeze > requirements.txt``` 
 
+# Organização do repositório
+![GitFlow](/Docs/pasted_image_0.png)
+
+- **Main(sessão azul):**
+    - Branch onde ficam as versões mais estáveis do código
+
+- **Hotfix:**
+    - Branch que recebe os commits com bug para concerto
+- **Realese:**
+    - Branch onde ficam as versões execultáveis do código
+
+- **Develop:**
+    - Branch onde são as features das outras branches são reunidos e conectados
+
+- **Features(Feature1,Feature2...)**
+    - Branches onde são desenvolvidas cada funcionalidade do software
 
 # Referências
 
@@ -45,3 +61,4 @@ A project to study programming and create a portfolio and help my father with hi
 
 - [Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Django](https://docs.djangoproject.com/en/4.2/)
+- [Arquitetura de Software Morderna(Usaremos MVC)](https://engsoftmoderna.info/)
