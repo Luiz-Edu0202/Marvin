@@ -47,14 +47,10 @@ A project to study programming and create a portfolio and help my father with hi
 ### Videos:
 
 - [DJANGO (O Python na Web) // Dicionário do Programador](https://youtu.be/ao8pCrRqKOs)
-
+- [Migrations (Solução para Versionamento de Banco de Dados) // Dicionário do Programador](https://youtu.be/HRw1Dcxxu2k)
 - [CRUD em Python - Python e MySQL](https://www.youtube.com/watch?v=_q3j25ACmQ4)
-
 - [Como Sair do Zero em Django no Python [Passo a Passo Primeiro Site]](https://youtu.be/DNGI5aD9MJs)
-
 - [ChatGPT e Python - Automações no Office](https://youtu.be/P2joSxyUyd4)
-
-
 - [CRUD em Python - Python e MySQL](https://www.youtube.com/watch?v=_q3j25ACmQ4)
 
 ### Documentações:
